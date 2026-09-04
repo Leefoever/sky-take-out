@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+# 本地数据库配置，不要上传公开仓库
+src/main/resources/application-dev.yml
+
